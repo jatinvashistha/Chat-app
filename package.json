@@ -13,7 +13,6 @@
     "axios": "^1.4.0",
     "framer-motion": "^6.5.1",
     "react": "^18.2.0",
-    "react-chips": "^0.8.0",
     "react-dom": "^18.2.0",
     "react-icons": "^3.11.0",
     "react-lottie": "^1.2.3",
